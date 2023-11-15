@@ -1,4 +1,3 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Matus Mihok](mailto:matus.mihok@owasp.org)
+* [Mykhailo Bukh](mailto:mykhailo.bukh@owasp.org)
